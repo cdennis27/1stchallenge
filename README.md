@@ -14,6 +14,7 @@ Website to advertise services from web marketing company.
 
 Website will be alive on link below:
 
+https://cdennis27.github.io/1stchallenge/index.html
 
 ## Usage
 
