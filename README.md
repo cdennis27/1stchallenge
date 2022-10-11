@@ -19,7 +19,7 @@ Website will be alive on link below:
 
 Added screenshot for easy preview and facilitate understanding if needed.
 
-![Screenshotofwebsite](./Develop/assets/images/screen.jpg)
+![Screenshotofwebsite](./assets/images/screen.jpg)
 
 
 ### Credits
